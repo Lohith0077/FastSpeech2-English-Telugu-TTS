@@ -19,7 +19,6 @@ predictor outputs.
 
 The trained model checkpoint files are hosted separately because each
 checkpoint exceeds GitHub's normal 100 MB file limit.
-Add the Google Drive download links here.
 
 ## Environment
 
