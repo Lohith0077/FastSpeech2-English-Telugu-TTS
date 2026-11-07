@@ -1,0 +1,56 @@
+[
+    {
+        "language": "English",
+        "audio_file": "Artificial intelligence is transforming the world..wav",
+        "sentence": "Artificial intelligence is transforming the world.",
+        "duration_seconds": 3.111,
+        "average_pitch_hz": 120.64,
+        "average_rms_energy": 0.07922,
+        "sample_rate": 22050
+    },
+    {
+        "language": "English",
+        "audio_file": "Hello, welcome to our speech synthesis project..wav",
+        "sentence": "Hello, welcome to our speech synthesis project.",
+        "duration_seconds": 3.065,
+        "average_pitch_hz": 119.66,
+        "average_rms_energy": 0.07939,
+        "sample_rate": 22050
+    },
+    {
+        "language": "English",
+        "audio_file": "Speech synthesis converts written text into spoken words..wav",
+        "sentence": "Speech synthesis converts written text into spoken words.",
+        "duration_seconds": 3.483,
+        "average_pitch_hz": 131.02,
+        "average_rms_energy": 0.07508,
+        "sample_rate": 22050
+    },
+    {
+        "language": "English",
+        "audio_file": "Technology makes communication easier and faster..wav",
+        "sentence": "Technology makes communication easier and faster.",
+        "duration_seconds": 3.204,
+        "average_pitch_hz": 137.07,
+        "average_rms_energy": 0.10235,
+        "sample_rate": 22050
+    },
+    {
+        "language": "English",
+        "audio_file": "This is a test of the English speech synthesis system..wav",
+        "sentence": "This is a test of the English speech synthesis system.",
+        "duration_seconds": 2.844,
+        "average_pitch_hz": 119.65,
+        "average_rms_energy": 0.08325,
+        "sample_rate": 22050
+    },
+    {
+        "language": "English",
+        "audio_file": "This system supports English and Telugu languages..wav",
+        "sentence": "This system supports English and Telugu languages.",
+        "duration_seconds": 2.891,
+        "average_pitch_hz": 138.91,
+        "average_rms_energy": 0.08627,
+        "sample_rate": 22050
+    }
+]

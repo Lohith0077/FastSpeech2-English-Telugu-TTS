@@ -1,0 +1,56 @@
+[
+    {
+        "language": "Telugu",
+        "audio_file": "ఇది తెలుగు మాటల సంశ్లేషణ పరీక్ష..wav",
+        "sentence": "ఇది తెలుగు మాటల సంశ్లేషణ పరీక్ష.",
+        "duration_seconds": 3.437,
+        "average_pitch_hz": 186.99,
+        "average_rms_energy": 0.09168,
+        "sample_rate": 22050
+    },
+    {
+        "language": "Telugu",
+        "audio_file": "ఈ వ్యవస్థ వచనాన్ని మాటలుగా మారుస్తుంది..wav",
+        "sentence": "ఈ వ్యవస్థ వచనాన్ని మాటలుగా మారుస్తుంది.",
+        "duration_seconds": 4.249,
+        "average_pitch_hz": 180.84,
+        "average_rms_energy": 0.06656,
+        "sample_rate": 22050
+    },
+    {
+        "language": "Telugu",
+        "audio_file": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది..wav",
+        "sentence": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది.",
+        "duration_seconds": 3.866,
+        "average_pitch_hz": 188.46,
+        "average_rms_energy": 0.05438,
+        "sample_rate": 22050
+    },
+    {
+        "language": "Telugu",
+        "audio_file": "నమస్కారం, మా ప్రాజెక్టుకు స్వాగతం..wav",
+        "sentence": "నమస్కారం, మా ప్రాజెక్టుకు స్వాగతం.",
+        "duration_seconds": 3.657,
+        "average_pitch_hz": 163.1,
+        "average_rms_energy": 0.06156,
+        "sample_rate": 22050
+    },
+    {
+        "language": "Telugu",
+        "audio_file": "మా నమూనా తెలుగు మరియు ఆంగ్ల భాషలకు మద్దతు ఇస్తుంది..wav",
+        "sentence": "మా నమూనా తెలుగు మరియు ఆంగ్ల భాషలకు మద్దతు ఇస్తుంది.",
+        "duration_seconds": 5.294,
+        "average_pitch_hz": 181.38,
+        "average_rms_energy": 0.0774,
+        "sample_rate": 22050
+    },
+    {
+        "language": "Telugu",
+        "audio_file": "సాంకేతికత మన జీవితాన్ని సులభతరం చేస్తుంది..wav",
+        "sentence": "సాంకేతికత మన జీవితాన్ని సులభతరం చేస్తుంది.",
+        "duration_seconds": 4.481,
+        "average_pitch_hz": 183.47,
+        "average_rms_energy": 0.05852,
+        "sample_rate": 22050
+    }
+]

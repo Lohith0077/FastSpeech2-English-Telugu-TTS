@@ -1,0 +1,14 @@
+# FastSpeech2 Telugu configuration
+# Dataset: LJSpeech
+
+language: "Telugu"
+dataset: "LJSpeech"
+
+configuration_files:
+  training: "config/LJSpeech/train.yaml"
+  model: "config/LJSpeech/model.yaml"
+  preprocessing: "config/LJSpeech/preprocess.yaml"
+
+inference_script: "inference.py"
+training_script: "train.py"
+preprocessing_script: "preprocess.py"

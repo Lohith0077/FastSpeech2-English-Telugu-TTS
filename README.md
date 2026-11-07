@@ -1,36 +1,26 @@
+# FastSpeech2 English and Telugu TTS
 
-# Multilingual Text-to-Speech Synthesis Using FastSpeech2
+Bilingual Text-to-Speech Synthesis using FastSpeech2.
 
-## Languages
-- English
-- Telugu
+## Repository structure
 
-## Model details
-- Architecture: FastSpeech2
-- Training checkpoint: 20000
-- Sample rate: 22050 Hz
-- Environment: Kaggle GPU
+- English/: English source code, configuration and checkpoints folder
+- Telugu/: Telugu source code, configuration and checkpoints folder
+- Results/: generated speech and evaluation plots
+- Report/: technical report
 
-## Submission contents
-- Source code and configuration files for both languages
-- English and Telugu synthesized test audio
-- Original inference plots
-- Duration, pitch and energy analysis
-- Test sentence JSON and CSV files
-- Training and validation loss curves
-- Validation evaluation results
-- Bilingual comparison graphs
-- Final evaluation report
+## Results note
+
+Duration, pitch and energy plots are audio-derived analyses of generated
+speech. They should not be interpreted as direct internal variance-adaptor
+predictor outputs.
 
 ## Model checkpoints
-The two trained model checkpoints are supplied separately in:
-FastSpeech2_Trained_Models.zip
 
-## Evaluation note
-Duration, pitch and RMS energy plots are measurements from
-the generated audio. They are not direct visualizations of
-the internal FastSpeech2 variance predictor tensors.
+The trained model checkpoint files are hosted separately because each
+checkpoint exceeds GitHub's normal 100 MB file limit.
+Add the Google Drive download links here.
 
-The evaluation uses a limited set of test and validation
-samples. Audio quality and intelligibility should be
-assessed through listening and, where possible, ASR metrics.
+## Environment
+
+Training and evaluation were performed using a Kaggle GPU environment.

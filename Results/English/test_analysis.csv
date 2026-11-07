@@ -1,0 +1,7 @@
+language,audio_file,sentence,duration_seconds,average_pitch_hz,average_rms_energy,sample_rate
+English,Artificial intelligence is transforming the world..wav,Artificial intelligence is transforming the world.,3.111,120.64,0.07922,22050
+English,"Hello, welcome to our speech synthesis project..wav","Hello, welcome to our speech synthesis project.",3.065,119.66,0.07939,22050
+English,Speech synthesis converts written text into spoken words..wav,Speech synthesis converts written text into spoken words.,3.483,131.02,0.07508,22050
+English,Technology makes communication easier and faster..wav,Technology makes communication easier and faster.,3.204,137.07,0.10235,22050
+English,This is a test of the English speech synthesis system..wav,This is a test of the English speech synthesis system.,2.844,119.65,0.08325,22050
+English,This system supports English and Telugu languages..wav,This system supports English and Telugu languages.,2.891,138.91,0.08627,22050
